@@ -13,7 +13,7 @@
     "cheerio": "0.13.1",
     "html-entities": "1.0.10",
     "congregator-base": "anzizhao/congregator",
-    "node-read": "eiriklv/node-read"
+    "node-read": "anzizhao/node-read"
   },
 
   "devDependencies": {},
